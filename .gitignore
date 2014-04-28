@@ -1,0 +1,12 @@
+tmp
+bin
+build
+*.zip
+.apt_generated
+.DS_Store
+*.log
+*~
+gen/
+.settings/
+*/local.properties
+bin/
